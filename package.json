@@ -1,0 +1,19 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walaahamad/utils.git"
+  },
+  "author": "Wala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walaahamad/utils/issues"
+  },
+  "homepage": "https://github.com/walaahamad/utils#readme"
+}
